@@ -1,4 +1,4 @@
-# cleye
+# cleye ![eog representation](https://travis-ci.org/evanandrewrose/cleye.svg?branch=master "Image captured via eog.")
 
 Terminal-based image viewer.
 
