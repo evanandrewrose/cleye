@@ -24,7 +24,7 @@ Terminal-based image viewer.
         <file_path>    Input file to present.
 
 # original
-![eog representation](/bin/img/eog_screen.png?raw=true "Optional Title")
+![eog representation](/img/eog_screen.png?raw=true "Image captured via eog.")
 
 # cleye
-![cleye_representation](/bin/img/eog_screen.png?raw=true "Optional Title")
+![cleye_representation](/img/tool_screen.png?raw=true "Image captured via cleye.")
