@@ -28,3 +28,26 @@ Terminal-based image viewer.
 
 # cleye
 ![cleye_representation](/img/tool_screen.png?raw=true "Image captured via cleye.")
+
+# system requirements
+
+Acquire rust and cargo from [rustup.rs](rustup.rs), then just run:
+
+# build
+
+    cargo build
+
+# run
+
+    cargo run
+
+# thanks
+
+This application was extremely easy to develop thanks to:
+
+- [termion](https://github.com/ticki/termion)
+- [image](https://github.com/PistonDevelopers/image)
+- [structopt](https://github.com/TeXitoi/structopt)
+- [error-chain](https://github.com/rust-lang-nursery/error-chain)
+- [log](https://github.com/rust-lang-nursery/log)
+- [loggerv](https://github.com/clux/loggerv)
