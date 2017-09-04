@@ -18,7 +18,7 @@ Terminal-based image viewer.
     
     OPTIONS:
         -f, --filter <filter>              Filter to apply when resizing image. (Nearest, Triangle, CatmullRom, Gaussian, Lanczos3) [default: Nearest]
-    -p, --pixel_width <pixel_width>    Number of characters for a given pixel. [default: 2]
+        -p, --pixel_width <pixel_width>    Number of characters for a given pixel. [default: 2]
 
     ARGS:
         <file_path>    Input file to present.
