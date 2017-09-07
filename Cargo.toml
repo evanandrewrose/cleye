@@ -1,7 +1,9 @@
 [package]
+description = "A terminal-based image viewer."
 name = "cleye"
 version = "0.1.0"
 authors = ["evanandrewrose <evanandrewrose@gmail.com>"]
+license = "MIT"
 
 [dependencies]
 termion = "1.5.1"
